@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://resume.murrayfoundry.com
+resume-url: https://murrayfoundry.com/resume
 
 url: https://murrayfoundry.com
 # your url: http://USERNAME.github.io
